@@ -1,0 +1,8 @@
+{
+  "name": "Remix مخطط الميزانية والمصاريف الشخصية",
+  "description": "لوحة تحكم مالية ذات طابع سايبراني متقدم ومخطط للميزانية والمصاريف الشخصية والدخل مع مؤشرات ديناميكية وتخزين محلي.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
